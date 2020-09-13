@@ -1,0 +1,12 @@
+abri git bash
+'cd' hasta la carpeta en blanco que voy a trabajar
+'touch archivo1.py'
+'touch archivo2.py'
+'touch comandos.txt' #el archivo que se lee ahora
+'nano archivo1.py'
+-x = 3
+-y = 7
+-print('si las variables:')
+-print(f'x, vale {x}')
+-print(f'y, vale {y}')
+-print(la suma/resta/multiplicacion/division de 3 y 7 es: {x} +-*/ {y}={x+-*/y}')
